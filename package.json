@@ -1,0 +1,11 @@
+{
+    "name": "pathjs",
+    "version": "1.0.0",
+    "description": "Simple, lightweight routing for web browsers",
+    "url": "https://github.com/Traackr/pathjs",
+    "main": "path.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Traackr/pathjs"
+    }
+}
